@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+      <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#0D1117"/>
+          <stop offset=".58" stop-color="#111827"/>
+          <stop offset="1" stop-color="#0B1020"/>
+        </linearGradient>
+        <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#58A6FF"/>
+          <stop offset="1" stop-color="#22D3EE"/>
+        </linearGradient>
+        <radialGradient id="glow">
+          <stop offset="0" stop-color="#58A6FF" stop-opacity=".25"/>
+          <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+      </defs>
+
+      <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+      <circle cx="955" cy="240" r="275" fill="url(#glow)" filter="url(#blur)"/>
+      <path d="M0 540C180 470 280 620 470 535S820 510 1200 420" fill="none"
+            stroke="url(#accent)" stroke-width="2" opacity=".28"/>
+      <g opacity=".25" fill="#58A6FF">
+        <circle cx="710" cy="110" r="3"/><circle cx="775" cy="160" r="2"/>
+        <circle cx="1085" cy="120" r="3"/><circle cx="1120" cy="365" r="2"/>
+        <circle cx="650" cy="470" r="2"/><circle cx="1040" cy="520" r="3"/>
+      </g>
+      <g opacity=".18" stroke="#58A6FF">
+        <path d="M660 120L775 160L875 90L990 155L1085 120"/>
+        <path d="M650 470L790 415L910 500L1040 420L1120 365"/>
+      </g>
+
+      <text x="72" y="105" fill="#58A6FF" font-family="Inter,Arial,sans-serif"
+            font-size="22" font-weight="700" letter-spacing="4">FEATURED AI PROJECT</text>
+      <text x="72" y="235" fill="#F0F6FC" font-family="Inter,Arial,sans-serif"
+            font-size="68" font-weight="750">Car Price Predictor</text>
+      <text x="74" y="292" fill="#8B949E" font-family="Inter,Arial,sans-serif"
+            font-size="27">Machine Learning Web Application</text>
+      <rect x="72" y="350" width="430" height="1.5" fill="url(#accent)" opacity=".8"/>
+      <text x="74" y="410" fill="#C9D1D9" font-family="Inter,Arial,sans-serif"
+            font-size="22">Production-oriented AI • Clean architecture</text>
+      <text x="74" y="455" fill="#8B949E" font-family="Inter,Arial,sans-serif"
+            font-size="20">Osaid Z. Alhawamdeh</text>
+
+      
+          <path d="M740 420V205M740 420h340" stroke="#C9D1D9" stroke-width="3" opacity=".3"/>
+          <path d="M780 375l75-95 70 48 105-145" fill="none" stroke="url(#accent)"
+                stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="780" cy="375" r="10" fill="#58A6FF"/>
+          <circle cx="855" cy="280" r="10" fill="#8B5CF6"/>
+          <circle cx="925" cy="328" r="10" fill="#58A6FF"/>
+          <circle cx="1030" cy="183" r="10" fill="#C4B5FD"/>
+        
+
+      <rect x="1.5" y="1.5" width="1197" height="627" rx="31" fill="none"
+            stroke="url(#accent)" stroke-width="3" opacity=".35"/>
+    </svg>
