@@ -144,28 +144,45 @@ End-to-end machine learning web application for estimating vehicle prices with X
 
 ## Engineering Profile
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM%20Applications-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-0D1117?style=for-the-badge&logo=semanticweb&logoColor=BC8CFF" alt="RAG Systems"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5BC0EB" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Production%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="Production APIs"/>
+<img src="https://img.shields.io/badge/AI%20Training-0D1117?style=for-the-badge&logo=googleclassroom&logoColor=F0F6FC" alt="AI Training"/>
+
+</div>
+
+<br/>
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-### What I Build
+### What I Engineer
 
-- LLM applications grounded in trusted data
+I design and build **production-oriented AI systems** that combine reliable data pipelines, modern machine learning, and practical user experiences.
+
+- Grounded LLM applications
 - Retrieval-Augmented Generation pipelines
 - AI agents and workflow automation
 - Computer vision and deep learning systems
-- Production APIs and AI-enabled web applications
+- FastAPI-based AI services and web applications
 
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
-### Current Focus
+### Current Direction
+
+My current work is focused on turning advanced AI capabilities into systems that are **reliable, useful, and deployable**.
 
 - AI-powered healthcare applications
-- Reliable and evaluated RAG systems
+- Evaluated and trustworthy RAG systems
 - Agentic AI architectures
 - Production AI engineering
-- Responsible AI training
+- Responsible AI education and adoption
 
 </td>
 </tr>
@@ -224,31 +241,57 @@ End-to-end machine learning web application for estimating vehicle prices with X
 
 <br/>
 
-## Recognition & Leadership
+## Impact & Recognition
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### Recognition
+### 🥉
 
-- 🥉 **3rd Place** — IEEE Jordan AI Modeling Hackathon
-- 🥈 **2nd Place** — Irada Tech Entrepreneurship Hackathon
-- 🌍 Represented Jordan at the International AI Forum in Egypt
+**3rd Place**
+
+<sub>IEEE Jordan AI Modeling Hackathon</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### Leadership
+### 🥈
 
-- AI Engineer and Digital Skills Trainer
-- Former AI Team Leader at Tafila Technical University
-- IEEE Member
-- Delivered **14+** AI and digital-skills workshops
+**2nd Place**
+
+<sub>Irada Tech Entrepreneurship Hackathon</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🌍
+
+**Jordan Representative**
+
+<sub>International AI Forum · Egypt</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 👨‍🏫
+
+**14+ Workshops**
+
+<sub>AI & Digital Skills Training</sub>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineer-161B22?style=for-the-badge&logo=probot&logoColor=58A6FF" alt="AI Engineer"/>
+<img src="https://img.shields.io/badge/Digital%20Skills%20Trainer-161B22?style=for-the-badge&logo=googleclassroom&logoColor=BC8CFF" alt="Digital Skills Trainer"/>
+<img src="https://img.shields.io/badge/Former%20AI%20Team%20Leader-161B22?style=for-the-badge&logo=githubsponsors&logoColor=22D3EE" alt="Former AI Team Leader"/>
+<img src="https://img.shields.io/badge/IEEE%20Member-161B22?style=for-the-badge&logo=ieee&logoColor=F0F6FC" alt="IEEE Member"/>
+
+</div>
 
 <br/>
 
