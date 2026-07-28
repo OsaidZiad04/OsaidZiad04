@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="2172" height="724" alt="ChatGPT Image Jul 29, 2026, 12_23_16 AM" src="https://github.com/user-attachments/assets/56d09110-b497-475e-9d96-03c580d513b8" />" width="100%" alt="Banner"/>
+  <img src="github-banner.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Osaid Z. Alhawamdeh</h1>
