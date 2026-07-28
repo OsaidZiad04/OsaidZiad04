@@ -44,12 +44,45 @@ Building production-oriented intelligent systems that turn real-world challenges
 <img src="https://img.shields.io/badge/Irada%20Tech%20Hackathon-2nd%20Place-8B5CF6?style=for-the-badge&labelColor=161B22" alt="Irada Tech Hackathon"/>
 <img src="https://img.shields.io/badge/International%20AI%20Forum-Jordan%20Representative-22D3EE?style=for-the-badge&labelColor=161B22" alt="Jordan Representative"/>
 <img src="https://img.shields.io/badge/AI%20%26%20Digital%20Skills-14%2B%20Workshops-BC8CFF?style=for-the-badge&labelColor=161B22" alt="Workshops"/>
+<img src="https://img.shields.io/badge/AI.SPIRE%20Capstone-Team%20Leader-58A6FF?style=for-the-badge&labelColor=161B22" alt="AI.SPIRE Capstone Team Leader"/>
 
 </div>
 
 <br/>
 
 ## Selected Work
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<a href="https://github.com/Group1-team7/main-repo">
+  <img src="./assets/projects/lawz-ai-jo.svg" width="100%" alt="Lawz AI JO — AI.SPIRE Capstone preview"/>
+</a>
+
+### Lawz AI JO — AI.SPIRE Capstone
+
+An Arabic AI assistant for Jordanian labor-law information, built with grounded retrieval, backend-generated citations, evidence-aware responses, and a separate Neo4j knowledge-graph proof of concept.
+
+**My role:** Team Leader · Frontend Development · Evaluation Framework · Result Interpretation · Cross-Component QA · System Integration · Final Technical Presentation
+
+`Next.js` `FastAPI` `Hybrid RAG` `Weaviate` `Neo4j` `Docker` `Evaluation`
+
+<a href="https://github.com/Group1-team7/main-repo">
+  <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Lawz AI JO repository"/>
+</a>
+<a href="https://github.com/Group1-team7">
+  <img src="https://img.shields.io/badge/View-Team%20Organization-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="AI.SPIRE team organization"/>
+</a>
+<a href="https://www.linkedin.com/posts/osaid-z-alhawamdeh_aispire-aiengineering-rag-ugcPost-7486155087640387584-6qBt/">
+  <img src="https://img.shields.io/badge/Read-Capstone%20Story-161B22?style=flat-square&logo=linkedin&logoColor=BC8CFF" alt="AI.SPIRE capstone LinkedIn post"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <table>
 <tr>
@@ -148,6 +181,7 @@ End-to-end machine learning web application for estimating vehicle prices with X
 
 <img src="https://img.shields.io/badge/LLM%20Applications-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="LLM Applications"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-0D1117?style=for-the-badge&logo=semanticweb&logoColor=BC8CFF" alt="RAG Systems"/>
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-0D1117?style=for-the-badge&logo=neo4j&logoColor=22D3EE" alt="Knowledge Graphs"/>
 <img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5BC0EB" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/Production%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="Production APIs"/>
@@ -167,6 +201,7 @@ I design and build **production-oriented AI systems** that combine reliable data
 
 - Grounded LLM applications
 - Retrieval-Augmented Generation pipelines
+- Knowledge graphs and cross-component AI integration
 - AI agents and workflow automation
 - Computer vision and deep learning systems
 - FastAPI-based AI services and web applications
@@ -200,6 +235,8 @@ My current work is focused on turning advanced AI capabilities into systems that
 
 <img src="https://img.shields.io/badge/Large%20Language%20Models-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="Large Language Models"/>
 <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-161B22?style=for-the-badge&logo=semanticweb&logoColor=BC8CFF" alt="RAG"/>
+<img src="https://img.shields.io/badge/Weaviate-161B22?style=for-the-badge&logo=weaviate&logoColor=22D3EE" alt="Weaviate"/>
+<img src="https://img.shields.io/badge/Neo4j-161B22?style=for-the-badge&logo=neo4j&logoColor=58A6FF" alt="Neo4j"/>
 <img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-161B22?style=for-the-badge&logo=opencv&logoColor=58A6FF" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
@@ -286,9 +323,13 @@ My current work is focused on turning advanced AI capabilities into systems that
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/AI.SPIRE-24%20Weeks%20%C2%B7%20500%2B%20Training%20Hours-0D1117?style=for-the-badge&labelColor=161B22&color=8B5CF6" alt="AI.SPIRE 24 weeks and 500+ training hours"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/AI%20Engineer-161B22?style=for-the-badge&logo=probot&logoColor=58A6FF" alt="AI Engineer"/>
 <img src="https://img.shields.io/badge/Digital%20Skills%20Trainer-161B22?style=for-the-badge&logo=googleclassroom&logoColor=BC8CFF" alt="Digital Skills Trainer"/>
-<img src="https://img.shields.io/badge/Former%20AI%20Team%20Leader-161B22?style=for-the-badge&logo=githubsponsors&logoColor=22D3EE" alt="Former AI Team Leader"/>
+<img src="https://img.shields.io/badge/AI.SPIRE%20Capstone%20Team%20Leader-161B22?style=for-the-badge&logo=githubsponsors&logoColor=22D3EE" alt="AI.SPIRE Capstone Team Leader"/>
 <img src="https://img.shields.io/badge/IEEE%20Member-161B22?style=for-the-badge&logo=ieee&logoColor=F0F6FC" alt="IEEE Member"/>
 
 </div>
