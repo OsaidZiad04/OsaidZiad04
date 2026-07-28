@@ -1,184 +1,263 @@
-<p align="center">
-  <img src="github-banner.png" width="100%" alt="Banner"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Osaid Z. Alhawamdeh</h1>
-
-<h3 align="center">
-AI Engineer • Machine Learning Engineer • AI Trainer
-</h3>
+<!--
+  Osaid Z. Alhawamdeh — GitHub Profile README V3
+  Repository name must match your username exactly: OsaidZiad04
+-->
 
 <p align="center">
-Building intelligent systems that transform real-world challenges into practical AI solutions.
+  <img src="./assets/github-banner.png" width="100%" alt="Osaid Z. Alhawamdeh — AI Engineer"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Building+LLM+Applications;Developing+RAG+Systems;AI+Trainer+%7C+Community+Leader" />
-</p>
+<div align="center">
 
----
+# Osaid Z. Alhawamdeh
 
-# 👨‍💻 About Me
+### AI Engineer · Machine Learning Engineer · AI Trainer
 
-I'm an AI Engineer passionate about designing intelligent systems that solve real-world problems through Artificial Intelligence.
+Building production-oriented intelligent systems that turn real-world challenges into practical AI solutions.
 
-My work focuses on building production-oriented AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, and AI-powered automation.
+<br/>
 
-Beyond engineering, I actively deliver AI and Digital Skills workshops, helping students and professionals leverage modern AI technologies effectively.
+<a href="https://osaidziad04.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=161B22" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/osaid-z-alhawamdeh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn"/>
+</a>
+<a href="mailto:osaidziad84@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-0D1117?style=for-the-badge&logo=gmail&logoColor=BC8CFF&labelColor=161B22" alt="Email"/>
+</a>
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC&labelColor=161B22" alt="GitHub Projects"/>
+</a>
 
----
+<br/><br/>
 
-# 🚀 Featured Projects
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+LLM+Applications;Engineering+Grounded+RAG+Systems;Developing+Production+AI+Solutions;Creating+Computer+Vision+Systems;Training+People+to+Use+AI+Effectively" alt="Animated roles"/>
 
-## 💊 PharmaGuard AI
+</div>
 
-An AI-powered pharmacist copilot designed to assist pharmacists in reviewing prescriptions using OCR, Retrieval-Augmented Generation (RAG), and drug knowledge bases.
+<br/>
 
-**Tech Stack**
+<div align="center">
+
+<img src="https://img.shields.io/badge/IEEE%20AI%20Hackathon-3rd%20Place-58A6FF?style=for-the-badge&labelColor=161B22" alt="IEEE AI Hackathon"/>
+<img src="https://img.shields.io/badge/Irada%20Tech%20Hackathon-2nd%20Place-8B5CF6?style=for-the-badge&labelColor=161B22" alt="Irada Tech Hackathon"/>
+<img src="https://img.shields.io/badge/International%20AI%20Forum-Jordan%20Representative-22D3EE?style=for-the-badge&labelColor=161B22" alt="Jordan Representative"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Digital%20Skills-14%2B%20Workshops-BC8CFF?style=for-the-badge&labelColor=161B22" alt="Workshops"/>
+
+</div>
+
+<br/>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="./assets/projects/pharmaguard-ai.svg" width="100%" alt="PharmaGuard AI preview"/>
+</a>
+
+### PharmaGuard AI
+
+AI-powered pharmacist copilot for reviewing prescriptions using OCR, grounded retrieval, and drug knowledge bases.
 
 `Python` `FastAPI` `RAG` `OCR` `LLMs`
 
----
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
+</a>
+<a href="https://osaidziad04.github.io/">
+  <img src="https://img.shields.io/badge/Project-Details-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Project details"/>
+</a>
 
-## 🛡 SOC Copilot
+</td>
+<td width="50%" valign="top">
 
-An AI assistant for Security Operations Centers that combines cybersecurity workflows with grounded RAG pipelines and structured JSON outputs to support threat investigation.
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="./assets/projects/soc-copilot.svg" width="100%" alt="SOC Copilot preview"/>
+</a>
 
-**Tech Stack**
+### SOC Copilot
+
+Grounded AI assistant for security operations, structured investigation workflows, and reliable JSON outputs.
 
 `Python` `FastAPI` `RAG` `Cybersecurity` `LLMs`
 
----
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
+</a>
+<a href="https://osaidziad04.github.io/">
+  <img src="https://img.shields.io/badge/Project-Details-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Project details"/>
+</a>
 
-## 🎥 SentinelAI
+</td>
+</tr>
 
-A deep learning-based violence detection system capable of analysing surveillance footage using EfficientNetB0 and Bi-LSTM architectures.
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack**
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="./assets/projects/sentinel-ai.svg" width="100%" alt="SentinelAI preview"/>
+</a>
+
+### SentinelAI
+
+Deep learning violence-detection system for surveillance video using EfficientNetB0 and Bi-LSTM architectures.
 
 `TensorFlow` `OpenCV` `EfficientNetB0` `Bi-LSTM`
 
----
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
+</a>
+<a href="https://osaidziad04.github.io/">
+  <img src="https://img.shields.io/badge/Project-Details-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Project details"/>
+</a>
 
-## 🚗 Car Price Predictor
+</td>
+<td width="50%" valign="top">
 
-A machine learning web application for predicting vehicle prices using XGBoost and Streamlit.
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="./assets/projects/car-price-predictor.svg" width="100%" alt="Car Price Predictor preview"/>
+</a>
 
-**Tech Stack**
+### Car Price Predictor
 
-`Python` `XGBoost` `Streamlit`
+End-to-end machine learning web application for estimating vehicle prices with XGBoost and Streamlit.
 
----
+`Python` `XGBoost` `Streamlit` `Machine Learning`
 
-# 🛠 Tech Stack
+<a href="https://github.com/OsaidZiad04?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
+</a>
+<a href="https://osaidziad04.github.io/">
+  <img src="https://img.shields.io/badge/Project-Details-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Project details"/>
+</a>
 
-### Languages
+</td>
+</tr>
+</table>
 
-`Python` `SQL` `Java` `JavaScript`
+> **Before publishing:** replace each temporary repositories-page link with the direct repository URL for that project.
 
-### Artificial Intelligence
+<br/>
 
-`Machine Learning`
+## Engineering Profile
 
-`Deep Learning`
+<table>
+<tr>
+<td width="58%" valign="top">
 
-`Computer Vision`
+### What I Build
 
-`Natural Language Processing`
+- LLM applications grounded in trusted data
+- Retrieval-Augmented Generation pipelines
+- AI agents and workflow automation
+- Computer vision and deep learning systems
+- Production APIs and AI-enabled web applications
 
-`Large Language Models`
+</td>
+<td width="42%" valign="top">
 
-`Retrieval-Augmented Generation`
+### Current Focus
 
-`AI Agents`
+- AI-powered healthcare applications
+- Reliable and evaluated RAG systems
+- Agentic AI architectures
+- Production AI engineering
+- Responsible AI training
 
-### Frameworks & Libraries
+</td>
+</tr>
+</table>
 
-`TensorFlow`
+<br/>
 
-`Scikit-learn`
+## Technology Stack
 
-`Pandas`
+<div align="center">
 
-`NumPy`
+<img src="https://skillicons.dev/icons?i=python,java,js,tensorflow,opencv,fastapi,react,nextjs,docker,git,github,vscode,pycharm,mysql&theme=dark&perline=14" alt="Technology stack icons"/>
 
-`OpenCV`
+<br/><br/>
 
-`FastAPI`
+<img src="https://img.shields.io/badge/Large%20Language%20Models-161B22?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="Large Language Models"/>
+<img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-161B22?style=for-the-badge&logo=semanticweb&logoColor=BC8CFF" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-161B22?style=for-the-badge&logo=opencv&logoColor=58A6FF" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
 
-`Streamlit`
+</div>
 
-`React`
+<br/>
 
-`Next.js`
+## GitHub Analytics
 
-### Tools
+<div align="center">
 
-`Git`
+<a href="https://github.com/OsaidZiad04">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=OsaidZiad04&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&ring_color=58A6FF&show=reviews,prs_merged,prs_merged_percentage" alt="Osaid's GitHub statistics"/>
+</a>
+<a href="https://github.com/OsaidZiad04">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsaidZiad04&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&size_weight=0.5&count_weight=0.5" alt="Osaid's most used languages"/>
+</a>
 
-`GitHub`
+<br/>
 
-`Docker`
+<a href="https://github.com/OsaidZiad04">
+  <img src="https://streak-stats.demolab.com?user=OsaidZiad04&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="Osaid's GitHub contribution streak"/>
+</a>
 
-`VS Code`
+</div>
 
-`PyCharm`
+<br/>
 
-`Jupyter Notebook`
+## Recognition & Leadership
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🎯 Current Focus
+### Recognition
 
-- 🤖 AI-powered Healthcare Applications
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ AI Agents
-- 🚀 Production AI Systems
+- 🥉 **3rd Place** — IEEE Jordan AI Modeling Hackathon
+- 🥈 **2nd Place** — Irada Tech Entrepreneurship Hackathon
+- 🌍 Represented Jordan at the International AI Forum in Egypt
 
----
+</td>
+<td width="50%" valign="top">
 
-# 🏆 Achievements
+### Leadership
 
-- 🥉 3rd Place — IEEE Jordan AI Modeling Hackathon
-- 🥈 2nd Place — Irada Tech Entrepreneurship Hackathon
-- 🌍 Represented Jordan at the International AI Forum – Egypt
-- 👨‍🏫 Delivered 14+ AI & Digital Skills Workshops
-
----
-
-# 🌟 Experience & Leadership
-
-- AI Engineer
-- Digital Skills Trainer
-- Former AI Team Leader – Tafila Technical University
+- AI Engineer and Digital Skills Trainer
+- Former AI Team Leader at Tafila Technical University
 - IEEE Member
-- Community Leader in AI & Digital Transformation
+- Delivered **14+** AI and digital-skills workshops
 
----
+</td>
+</tr>
+</table>
 
-# 📫 Connect With Me
+<br/>
 
-<p align="left">
+## Let's Build Something Intelligent
 
-💼 LinkedIn  
-https://www.linkedin.com/in/osaid-z-alhawamdeh/
+<div align="center">
 
-💻 GitHub  
-https://github.com/OsaidZiad04
+I am interested in AI engineering, applied research, product collaboration, training, and community-focused technology initiatives.
 
-🌐 Portfolio  
-https://osaidziad04.github.io/
+<br/>
 
-📧 Email  
-osaidziad84@gmail.com
+<a href="mailto:osaidziad84@gmail.com">
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation-Email%20Me-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Osaid"/>
+</a>
+<a href="https://www.linkedin.com/in/osaid-z-alhawamdeh/">
+  <img src="https://img.shields.io/badge/Professional%20Network-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-</p>
+<br/><br/>
 
----
+<sub>Designed as a focused AI engineering portfolio inside GitHub.</sub>
 
-<p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
+</div>
