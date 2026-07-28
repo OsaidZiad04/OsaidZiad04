@@ -55,7 +55,7 @@ Building production-oriented intelligent systems that turn real-world challenges
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/pharmaguard-ai">
   <img src="./assets/projects/pharmaguard-ai.svg" width="100%" alt="PharmaGuard AI preview"/>
 </a>
 
@@ -65,7 +65,7 @@ AI-powered pharmacist copilot for reviewing prescriptions using OCR, grounded re
 
 `Python` `FastAPI` `RAG` `OCR` `LLMs`
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/pharmaguard-ai">
   <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
 </a>
 <a href="https://osaidziad04.github.io/">
@@ -75,7 +75,7 @@ AI-powered pharmacist copilot for reviewing prescriptions using OCR, grounded re
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/soc-copilot-rag-llm">
   <img src="./assets/projects/soc-copilot.svg" width="100%" alt="SOC Copilot preview"/>
 </a>
 
@@ -85,7 +85,7 @@ Grounded AI assistant for security operations, structured investigation workflow
 
 `Python` `FastAPI` `RAG` `Cybersecurity` `LLMs`
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/soc-copilot-rag-llm">
   <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
 </a>
 <a href="https://osaidziad04.github.io/">
@@ -98,7 +98,7 @@ Grounded AI assistant for security operations, structured investigation workflow
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/SentinelAI-Violence-Detection">
   <img src="./assets/projects/sentinel-ai.svg" width="100%" alt="SentinelAI preview"/>
 </a>
 
@@ -108,7 +108,7 @@ Deep learning violence-detection system for surveillance video using EfficientNe
 
 `TensorFlow` `OpenCV` `EfficientNetB0` `Bi-LSTM`
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/SentinelAI-Violence-Detection">
   <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
 </a>
 <a href="https://osaidziad04.github.io/">
@@ -118,7 +118,7 @@ Deep learning violence-detection system for surveillance video using EfficientNe
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/car-price-predictor">
   <img src="./assets/projects/car-price-predictor.svg" width="100%" alt="Car Price Predictor preview"/>
 </a>
 
@@ -128,7 +128,7 @@ End-to-end machine learning web application for estimating vehicle prices with X
 
 `Python` `XGBoost` `Streamlit` `Machine Learning`
 
-<a href="https://github.com/OsaidZiad04?tab=repositories">
+<a href="https://github.com/OsaidZiad04/car-price-predictor">
   <img src="https://img.shields.io/badge/View-Repository-161B22?style=flat-square&logo=github&logoColor=F0F6FC" alt="Repository"/>
 </a>
 <a href="https://osaidziad04.github.io/">
@@ -139,7 +139,6 @@ End-to-end machine learning web application for estimating vehicle prices with X
 </tr>
 </table>
 
-> **Before publishing:** replace each temporary repositories-page link with the direct repository URL for that project.
 
 <br/>
 
@@ -197,16 +196,28 @@ End-to-end machine learning web application for estimating vehicle prices with X
 <div align="center">
 
 <a href="https://github.com/OsaidZiad04">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=OsaidZiad04&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&ring_color=58A6FF&show=reviews,prs_merged,prs_merged_percentage" alt="Osaid's GitHub statistics"/>
-</a>
-<a href="https://github.com/OsaidZiad04">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsaidZiad04&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&size_weight=0.5&count_weight=0.5" alt="Osaid's most used languages"/>
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OsaidZiad04&theme=github_dark"
+    alt="Osaid's GitHub statistics"
+  />
 </a>
 
-<br/>
+<a href="https://github.com/OsaidZiad04">
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsaidZiad04&theme=github_dark"
+    alt="Osaid's most used languages"
+  />
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/OsaidZiad04">
-  <img src="https://streak-stats.demolab.com?user=OsaidZiad04&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="Osaid's GitHub contribution streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=OsaidZiad04&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC"
+    alt="Osaid's GitHub contribution streak"
+  />
 </a>
 
 </div>
